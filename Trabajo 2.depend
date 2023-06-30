@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1688099319 source:c:\users\alvar\desktop\trabajo 2\main.cpp
+	<iostream>
+	<fstream>
+	<random>
+	<cmath>
+	<chrono>
+	<iomanip>
+	<windows.h>
+	<omp.h>
+
